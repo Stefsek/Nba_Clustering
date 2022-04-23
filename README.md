@@ -14,7 +14,7 @@
 
 **Welcome to our third big blue data academy project</strong>!**
 
--In this project our idead was to take the data from a website and use clustering analysis.The data were extracted via webscrapping using python's beautiful soup.
+-In this project our idea was to take the data from a website and use clustering analysis.The data were extracted via webscrapping using python's beautiful soup.
 K-means algorithm was used for clustering players attributes and as you can also see in our code and presentation the final outcome was very interesting 
 
 
